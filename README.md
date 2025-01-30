@@ -5,9 +5,9 @@
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-Experienced Backend Developer with 2+ years of expertise in PHP and Laravel, specializing in building scalable, secure, and efficient web applications. Skilled in RESTful API design, cloud services (AWS EC2, S3), and database management (MySQL). Proficient in React.js, ensuring seamless integration between front-end and back-end services.
+-Experienced Backend Developer with 2+ years of expertise in PHP and Laravel, specializing in building scalable, secure, and efficient web applications. Skilled in RESTful API design, cloud services (AWS EC2, S3), and database management (MySQL). Proficient in React.js, ensuring seamless integration between front-end and back-end services.
 
-Strong experience in mentoring and managing teams, yet thrives as a team player, collaborating effectively in remote environments. Passionate about problem-solving and delivering high-quality, maintainable code. Adept at deploying Laravel applications on AWS and exploring infrastructure management tools like Terraform.
+-Strong experience in mentoring and managing teams, yet thrives as a team player, collaborating effectively in remote environments. Passionate about problem-solving and delivering high-quality, maintainable code. Adept at deploying Laravel applications on AWS and exploring infrastructure management tools like Terraform.
 
 Seeking opportunities to expand expertise in microservices architecture with Django while leveraging existing Laravel proficiency to build robust, scalable solutions.
 
